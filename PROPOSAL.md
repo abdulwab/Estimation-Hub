@@ -128,3 +128,7 @@ We will move beyond simple "Open Rates" to true **Business Intelligence**.
 *   **Platform Access:** Access to City Portals for the "Trend Agent" to scrape is required.
 *   **Compute:** Running local Open Source models may require a GPU instance or usage of cheap inference providers (Groq/RunPod) if local hardware is insufficient.
 *   **Email Infrastructure:** Dedicated SMTP provider remains a requirement.
+*   **Operational Costs & API Keys:** All third-party API keys and cloud infrastructure costs are to be provided and paid for directly by **Estimation Hub** (the Client). This includes, but is not limited to:
+    *   **LLM Providers:** Google Gemini, OpenAI (GPT-4), Anthropic (Claude), DeepSeek, etc.
+    *   **Cloud Services:** AWS (SES, EC2, S3), Vercel, or other hosting providers.
+    *   **Search & Data APIs:** SerpApi, Google Custom Search, etc.
