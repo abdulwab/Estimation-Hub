@@ -1,7 +1,7 @@
 # Proposal: AI-Driven Multi-Agent Outreach & Intelligence Platform
 
 ## Executive Summary
-**EstiGroup** aims to revolutionize client acquisition by building a proprietary **Agentic Outreach & Market Intelligence Platform**. This system will not just automate emails but will act as an intelligent "Business Development Team" composed of specialized AI Agents. These agents will collaborate to analyze US construction permit data, scout high-value leads, enrich them with contact details, and execute personalized outreach campaigns.
+**Estimation Hub** aims to revolutionize client acquisition by building a proprietary **Agentic Outreach & Market Intelligence Platform**. This system will not just automate emails but will act as an intelligent "Business Development Team" composed of specialized AI Agents. These agents will collaborate to analyze US construction permit data, scout high-value leads, enrich them with contact details, and execute personalized outreach campaigns.
 
 This proposal outlines the 6-month development roadmap to build this **Multi-Agent System**, utilizing both proprietary (Gemini) and Open Source AI models for maximum efficiency and cost control.
 
