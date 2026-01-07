@@ -65,10 +65,11 @@ This architecture allows independent scaling, easier debugging, and controlled a
 
 Development will follow a strict phased approach, ensuring **usable functionality** at each stage.
 
-*   **Month 1: Foundation & Market Signals**
-    *   Build robust permit ingestion pipelines.
-    *   Implement "Trend Scrapers" for city portal stats.
-    *   *Deliverable:* Centralized database with clean permit data and market trends.
+*   **Month 1: Discovery, Requirements & Foundation**
+    *   **Requirement Workshops:** Deep-dive sessions to define target personas, campaign goals, and report formats.
+    *   **Technical Blueprint:** Finalizing the database schema and API integration strategy.
+    *   **Foundation Build:** Setting up robust permit ingestion pipelines and "Trend Scrapers".
+    *   *Deliverable:* Requirements Sign-off Document + Centralized database with clean permit data.
 
 *   **Month 2: Enrichment & Database Intelligence**
     *   Deploy enrichment services to find contact info.
