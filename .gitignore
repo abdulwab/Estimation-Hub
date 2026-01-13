@@ -1,6 +1,0 @@
-# Ignore everything
-*
-
-# Exception: Allow tracking of these specific files
-!.gitignore
-!PROPOSAL.md
