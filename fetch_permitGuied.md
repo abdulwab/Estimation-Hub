@@ -389,7 +389,7 @@ CITY_ENDPOINTS = {
         'name': 'Building Permits'
     },
     'seattle': {
-        'domain': 'cos-data.seattle.gov',
+        'domain': 'data.seattle.gov',
         'dataset_id': '76t5-zqzr',
         'name': 'Building Permits'
     },
@@ -418,6 +418,21 @@ CITY_ENDPOINTS = {
         'dataset_id': 'p798-x3nx',
         'name': 'Building Permits'
     },
+    'fort_worth': {
+        'domain': 'data.fortworthtexas.gov',
+        'dataset_id': 'quz7-xnsy',
+        'name': 'Development Permits'
+    },
+    'san_diego_county': {
+        'domain': 'internal-sandiegocounty.data.socrata.com',
+        'dataset_id': 'dyzh-7eat',
+        'name': 'Building Permits'
+    },
+    'framingham': {
+        'domain': 'data.framinghamma.gov',
+        'dataset_id': '2vzw-yean',
+        'name': 'Building Permits'
+    },
     'cook_county': {
         'domain': 'datacatalog.cookcountyil.gov',
         'dataset_id': '6yjf-dfxs',
@@ -432,6 +447,11 @@ CITY_ENDPOINTS = {
         'domain': 'data.delaware.gov',
         'dataset_id': '2655-qn8j',
         'name': 'Well Permits'
+    },
+    'delaware_septic': {
+        'domain': 'data.delaware.gov',
+        'dataset_id': 'mv7j-tx3u',
+        'name': 'Permitted Septic Systems'
     },
     'montgomery_county': {
         'domain': 'data.montgomerycountymd.gov',
